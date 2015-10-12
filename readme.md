@@ -1,6 +1,6 @@
 # posthtml-static-react
 
-> A PostHTML plugin to render custom elements as static React components.
+> A [PostHTML](https://github.com/posthtml/posthtml) plugin to render custom elements as static React components.
 
 Basic usage
 
