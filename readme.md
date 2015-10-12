@@ -30,6 +30,7 @@ posthtml()
 	});
 ```
 
+**Note**: If you use [JSX](https://facebook.github.io/jsx/) syntax (as the example above) you will need to transform your scripts - either precompile with [babel](https://babeljs.io/docs/usage/cli/#babel) or at runtime with [babel-node](https://babeljs.io/docs/usage/cli/#babel-node). YMMV.
 
 #### Arguments
 
