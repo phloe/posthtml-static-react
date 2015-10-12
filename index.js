@@ -35,7 +35,7 @@ function toReact (node, components) {
 
 module.exports = function (matcher, components) {
 
-	return function (tree) {
+	return function posthtmlStaticReact (tree) {
 
 		tree.match(matchHelper(matcher), function (node) {
 			return server.renderToStaticMarkup(toReact(node, components));
