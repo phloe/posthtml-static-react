@@ -1,7 +1,7 @@
 {
   "name": "posthtml-static-react",
   "version": "1.0.0",
-  "description": "",
+  "description": "A PostHTML plugin to render custom elements as static React components.",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
   "homepage": "https://github.com/rasmusfl0e/posthtml-static-react#readme",
   "dependencies": {
     "posthtml": "^0.5.0",
-    "posthtml-match-css-helper": "^1.0.0",
+    "posthtml-match-helper": "^1.0.0",
     "react": "^0.14.0",
     "react-dom": "^0.14.0"
   }
