@@ -1,6 +1,6 @@
 {
   "name": "posthtml-static-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A PostHTML plugin to render custom elements as static React components.",
   "keywords": [
     "parser",
