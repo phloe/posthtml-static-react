@@ -18,7 +18,7 @@ var MyCustomElement = function (props) {
 };
 
 var components = {
-	"my-custom-element": MyCustomElement;
+	"my-custom-element": MyCustomElement
 };
 
 posthtml()
